@@ -1,0 +1,37 @@
+id: PF0F9BB4C
+initial_creation_type: input
+source_metadata:
+  title: Topical Outlines
+  language: en
+  description: 'A series of topical or thematic outlines (sa bcad):'
+  volume:
+    fc4477c86858445ea5d2a7dc6492ef46:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      parent: Abhidharma
+    f609ca88d53f423eb604506bd3f84839:
+      title: 'The Precious Jewelled Key: A Synopsis of the Aspiration of the Great
+        Perfection Mañjuśrī'
+      parent: Aspiration Prayers
+    4502195718d24988880f9a09dc06b263:
+      title: The Way to Explain the King of All Aspiration Prayers, the Secret Vajra
+        Knot
+      parent: Aspiration Prayers
+    ab1eeb04958c43159239b8d4803095fa:
+      title: A Topical Outline of the General Confession Spoken by the Five Great
+        Sages
+      parent: Confession
+    8382bfa759b34427a2e17ae5fb13e58a:
+      title: Topical Outline of the Prayer That Swiftly Fulfils All Wishes (Sampa
+        Nyur Drupma)
+      parent: Guru Rinpoche Prayers
+    04bfcc9e781f4a04ac071b0a63e7a678:
+      title: Concise Explanatory Outline of the Heart of Wisdom
+      parent: Prajñāpāramitā
+    1aaab0f00eb04a56b65bf7db1c8eb871:
+      title: Outline of the Ten Royal Sūtras
+      parent: Sūtras
+    eb62429b7aaf4a4d83a2e1a9fa0f193c:
+      title: An Outline of The Praise to Tārā with Twenty-One Verses of Homage
+      parent: Tārā
+created_at: '2022-03-01T06:23:56.642449'
+last_modified_at: '2022-03-01T06:23:56.642456'
